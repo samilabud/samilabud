@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Samil 👋
 
-<!--
-**samilabud/samilabud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior full-stack developer from the Dominican Republic. I build web products end to end with **Next.js, TypeScript, PostgreSQL and Stripe**, and I add AI features (Claude API) that stay reliable in real use.
 
-Here are some ideas to get you started:
+### What I work on
+- Full-stack web apps: Next.js, React, Node.js, PostgreSQL, Tailwind CSS
+- Payments: Stripe subscriptions, signed webhooks, retries without duplicates
+- AI features: document extraction, prompts, validation and fallbacks
+- Mobile: React Native and Expo (Android)
+- Quality: Jest, React Testing Library, CI, Lighthouse and Core Web Vitals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **[PlantPal](https://github.com/samilabud/PlantPal)**: offline-first plant care app (Expo, Next.js API, Postgres, push, subscriptions). Live on [Google Play](https://play.google.com/store/apps/details?id=com.samilabud.plantpal). Built with AI assistance.
+- **[StoryKeep](https://github.com/samilabud/storykeep)**: Next.js and Postgres app with Stripe billing, webhooks, background AI jobs and PDF/DOCX export.
+- **[D'Higuey Longanizas](https://github.com/samilabud/dhiguey-longanizas)**: online shop with React, Node, PostgreSQL and Supabase auth.
+- More client work (CityRoomFinder, Discount Club and others) is private. See it on my website.
+
+### Tools I use daily
+Next.js · React · TypeScript · Node.js · PostgreSQL · Stripe · Tailwind CSS · Jest · Expo · Claude Code
+
+### Find me
+🌐 [samilabud.com](https://samilabud.com) · 💼 [LinkedIn](https://www.linkedin.com/in/samil-abud/)
