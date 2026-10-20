@@ -12,6 +12,7 @@ Senior full-stack developer from the Dominican Republic. I build web products en
 ### Projects
 - **[PlantPal](https://github.com/samilabud/PlantPal)**: offline-first plant care app (Expo, Next.js API, Postgres, push, subscriptions). Live on [Google Play](https://play.google.com/store/apps/details?id=com.samilabud.plantpal). Built with AI assistance.
 - **[StoryKeep](https://github.com/samilabud/storykeep)**: Next.js and Postgres app with Stripe billing, webhooks, background AI jobs and PDF/DOCX export.
+- **[Animal Adventures](https://github.com/samilabud/EliLearnApp)**: a free, ad-free English/Spanish learning app for kids, built with React Native and Expo. Live on [Google Play](https://play.google.com/store/apps/details?id=com.elilearnapps.animaladventures).
 - **[D'Higuey Longanizas](https://github.com/samilabud/dhiguey-longanizas)**: online shop with React, Node, PostgreSQL and Supabase auth.
 - More client work (CityRoomFinder, Discount Club and others) is private. See it on my website.
 
